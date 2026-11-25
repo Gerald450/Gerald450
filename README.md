@@ -2,7 +2,7 @@
 
 Software Engineer | Former SWE Intern @ Walton Enterprises
 
-Computer Science student with a concentration in Mathematics
+Computer Science student
 at the University of Arkansas at Pine Bluff (3.95 GPA).
 
 Interested in Backend Engineering, Distributed Systems,
